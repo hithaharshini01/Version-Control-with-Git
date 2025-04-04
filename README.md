@@ -52,7 +52,7 @@ To demonstrate basic Git operations by creating a repository, using branches for
 
 -Verified commit history using **git log --oneline**
 
-#EXPLAINATION
+# EXPLAINATION
 
 This task demonstrates a typical Git workflow used in software development. It began with initializing a local repository and creating a file with some content in the master branch. To simulate feature development, a new branch was created where additional changes were made. These changes were safely isolated from the master branch until they were ready to be merged.
 
