@@ -60,4 +60,7 @@ After updating and committing in the feature branch, we returned to the master b
 
 Once merged, the feature branch was deleted, and the full commit history remained intact and easy to understand. This ensures a clean and maintainable version control structure.
 
+# OUTPUT
+
+
 
