@@ -61,7 +61,9 @@ After updating and committing in the feature branch, we returned to the master b
 Once merged, the feature branch was deleted, and the full commit history remained intact and easy to understand. This ensures a clean and maintainable version control structure.
 
 # OUTPUT
+
 ![Image](https://github.com/user-attachments/assets/68bfb5bf-a225-487b-94dc-aab5de52de7a)
+
 
 ![Image](https://github.com/user-attachments/assets/86a21372-8413-4324-b8ec-8e779a91e336)
 
