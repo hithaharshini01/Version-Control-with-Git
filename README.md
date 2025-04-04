@@ -52,4 +52,12 @@ To demonstrate basic Git operations by creating a repository, using branches for
 
 -Verified commit history using **git log --oneline**
 
+#EXPLAINATION
+
+This task demonstrates a typical Git workflow used in software development. It began with initializing a local repository and creating a file with some content in the master branch. To simulate feature development, a new branch was created where additional changes were made. These changes were safely isolated from the master branch until they were ready to be merged.
+
+After updating and committing in the feature branch, we returned to the master branch and performed a fast-forward merge. Since both branches had non-conflicting updates, Git was able to merge them automatically without requiring manual intervention.
+
+Once merged, the feature branch was deleted, and the full commit history remained intact and easy to understand. This ensures a clean and maintainable version control structure.
+
 
