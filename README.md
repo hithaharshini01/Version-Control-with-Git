@@ -50,8 +50,6 @@ To demonstrate basic Git operations by creating a repository, using branches for
 
 -Deleted the feature branch using **git branch -d feature-branch** after successful merging.
 
--Verified commit history using **git log --oneline**, showing both commits in order:
--Feature branch update
--Initial commit - added file1.txt
+-Verified commit history using **git log --oneline**
 
 
