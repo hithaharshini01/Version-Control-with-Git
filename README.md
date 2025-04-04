@@ -13,5 +13,5 @@
 **MENTOR**: NEELA SANTHOSH
 
 # DESCRIPTION OF THE TASK
-**Objective**
+**Objective**:
 To demonstrate the use of Git for version control by setting up a repository, creating branches, performing a merge, and documenting conflict resolution steps (if any).
